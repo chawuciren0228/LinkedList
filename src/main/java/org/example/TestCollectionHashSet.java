@@ -15,6 +15,7 @@ public class TestCollectionHashSet {
             Integer i =iterator.next();
             System.out.println(i);
         }
+
         for ( int i : hashset){
             System.out.println(i);
         }
